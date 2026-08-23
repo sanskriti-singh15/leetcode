@@ -263,4 +263,20 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/sanskriti-singh15/leetcode/tree/master/1927-sum-game) |
+## Array
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/sanskriti-singh15/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/sanskriti-singh15/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/sanskriti-singh15/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/sanskriti-singh15/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
