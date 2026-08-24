@@ -255,6 +255,7 @@ https://doocs.github.io/leetcode
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/sanskriti-singh15/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1927-sum-game](https://github.com/sanskriti-singh15/leetcode/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -295,4 +296,8 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/sanskriti-singh15/leetcode/tree/master/1872-stone-game-viii) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/sanskriti-singh15/leetcode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
