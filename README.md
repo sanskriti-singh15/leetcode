@@ -250,6 +250,7 @@ https://doocs.github.io/leetcode
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/sanskriti-singh15/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sanskriti-singh15/leetcode/tree/master/1927-sum-game) |
 ## String
 |  |
@@ -262,11 +263,13 @@ https://doocs.github.io/leetcode
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/sanskriti-singh15/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sanskriti-singh15/leetcode/tree/master/1927-sum-game) |
 ## Array
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskriti-singh15/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1872-stone-game-viii](https://github.com/sanskriti-singh15/leetcode/tree/master/1872-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
@@ -279,4 +282,17 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskriti-singh15/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1872-stone-game-viii](https://github.com/sanskriti-singh15/leetcode/tree/master/1872-stone-game-viii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/sanskriti-singh15/leetcode/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/sanskriti-singh15/leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/sanskriti-singh15/leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
