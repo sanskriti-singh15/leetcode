@@ -271,6 +271,7 @@ https://doocs.github.io/leetcode
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskriti-singh15/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1872-stone-game-viii](https://github.com/sanskriti-singh15/leetcode/tree/master/1872-stone-game-viii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sanskriti-singh15/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -300,4 +301,8 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/sanskriti-singh15/leetcode/tree/master/0657-robot-return-to-origin) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sanskriti-singh15/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
