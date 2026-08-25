@@ -271,6 +271,7 @@ https://doocs.github.io/leetcode
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskriti-singh15/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1872-stone-game-viii](https://github.com/sanskriti-singh15/leetcode/tree/master/1872-stone-game-viii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sanskriti-singh15/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanskriti-singh15/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -304,5 +305,6 @@ https://doocs.github.io/leetcode
 ## Hash Table
 |  |
 | ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sanskriti-singh15/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanskriti-singh15/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
