@@ -270,6 +270,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sanskriti-singh15/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sanskriti-singh15/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskriti-singh15/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1872-stone-game-viii](https://github.com/sanskriti-singh15/leetcode/tree/master/1872-stone-game-viii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanskriti-singh15/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -277,6 +278,7 @@ https://doocs.github.io/leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sanskriti-singh15/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanskriti-singh15/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -307,10 +309,19 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sanskriti-singh15/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sanskriti-singh15/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanskriti-singh15/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanskriti-singh15/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sanskriti-singh15/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sanskriti-singh15/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sanskriti-singh15/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
